@@ -136,3 +136,30 @@ The project uses Docker to containerize both the frontend and backend services:
 This containerization ensures consistency across different development and deployment environments.
 
 This project demonstrates the integration of a React-based frontend with a Django backend, showcasing various chart types and data visualization techniques. It serves as a foundation that can be extended and customized for more complex dashboard applications.
+
+## Visuals
+
+### Landing Page
+![image](https://github.com/user-attachments/assets/cff3e80b-03d7-4fa6-aaeb-15b77b53d025)
+
+### Candlestick
+
+![image](https://github.com/user-attachments/assets/2b4c23c1-436b-48a9-8467-19581027c6ac)
+
+### Line Chart
+
+![image](https://github.com/user-attachments/assets/ab258f4f-22dd-42fb-87c6-4de3955df1bb)
+
+### Bar Graph
+![image](https://github.com/user-attachments/assets/62aacede-42e5-476b-9a83-465e5bb85a86)
+
+### Pie Chart
+![image](https://github.com/user-attachments/assets/888c610d-4f40-4d42-b3de-fc83b3cd43ca)
+
+
+
+
+
+
+
+
