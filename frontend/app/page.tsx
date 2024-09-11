@@ -1,0 +1,16 @@
+import Link from 'next/link';
+
+export default function Home() {
+  return (
+    <div className="flex flex-col items-center justify-center min-h-screen py-2">
+      <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
+        <h1 className="text-6xl font-bold">
+          Welcome to the Dashboard Project
+        </h1>
+        <Link href="/dashboard" className="mt-6 text-blue-600 hover:underline">
+          Go to Dashboard
+        </Link>
+      </main>
+    </div>
+  )
+}
